@@ -6,7 +6,7 @@
   "version": "1.0",
 
   "browser_action": {
-   "default_icon": "icons/hide256.png"
+   "default_icon": "icons/hide32.png"
   },
   "permissions": [
    "activeTab",

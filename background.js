@@ -1,4 +1,3 @@
-// Change from browserAction to pageAction
 var hideObj = {
   code : "[data-a-target='emote-name']{display:none !important;}",
   allFrames : true
