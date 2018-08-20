@@ -3,7 +3,7 @@
 
   "name": "No Kappa",
   "description": "Toggle Twitch emotes on/off. ",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "browser_action": {
    "default_icon": "icons/hide32.png"
